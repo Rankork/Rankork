@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rankork
 - 👀 I’m interested in programming, research and IT support. 
-- 🌱 I’m currently studying Computer Science, majoring in Computer Science. 
+- 🌱 I’m currently studying Computer Science, majoring in Cyber Security.
 - 💞️ I’m looking to collaborate on programming exercises. 
 - 📫 How to reach me, Discord: Rankork#6133. 
 
