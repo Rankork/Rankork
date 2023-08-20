@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rankork
-- 👀 I’m interested in programming, research and IT support. 
+- 👀 I’m interested in programming, research, cyber security and IT support. 
 - 🌱 I’m currently studying Computer Science, majoring in Cyber Security. 
 - I'm currently learning C++, HTML, Java, Javascript (including Express & React), PHP, Python & SQL
 - 💞️ I’m looking to collaborate on programming exercises. 
