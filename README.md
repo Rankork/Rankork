@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rankork
-- 👀 I’m interested in programming, research, cyber security and IT support. 
-- 🌱 I’m currently studying Computer Science, majoring in Cyber Security. 
-- I'm currently learning C++, HTML, Java, Javascript (including Express & React), PHP, Python & SQL
+- 👀 I’m interested in programming, research, cyber security and machine learning. 
+- 🌱 I’m a graduate of Computer Science, majored in Cyber Security. 
+- I'm currently working on a variety of projects, mostly focusing on using C++, CSS, HTML, Javascript, Python and SQL. 
 - 💞️ I’m looking to collaborate on programming exercises. 
 - 📫 How to reach me, Discord: Rankork#6133. 
 
